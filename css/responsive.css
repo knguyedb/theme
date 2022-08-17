@@ -3,7 +3,7 @@
         display: block;
     }
     #main {
-        top: 0;
+        text-align: center;
         left: 0;
         border-radius: 0;
         width: 100%;
